@@ -1,0 +1,3 @@
+matplotlib==<version>
+streamlit==<version>
+pandas==<version>
